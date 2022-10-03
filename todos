@@ -1,0 +1,10 @@
+Computation
+    Read the reply email and calculate strain gradients
+
+Theory
+    Find out how to write the strain energy density functional in terms of
+    strain tensors for a material with cubic symmetry.
+
+User element
+    Derive FE version of governing equations for micromorphic continua.
+    Write user element corresponding to the above FE equations.
